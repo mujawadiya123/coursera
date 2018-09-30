@@ -1,6 +1,6 @@
 var div = document.getElementById('modify');
 
-div.style.cssText = "width : 300px ; height : 300px ; background : blue;";
+div.style.cssText = "width : 400px ; height : 400px ; background : yellow;";
 
 
 
